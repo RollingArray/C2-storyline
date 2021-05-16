@@ -36,6 +36,9 @@
     - [:snowflake: Activity Assignee Self Review](#snowflake-activity-assignee-self-review)
     - [:snowflake: Activity Review](#snowflake-activity-review)
     - [:snowflake: Credibility Board](#snowflake-credibility-board)
+- [:snowflake: Develope](#snowflake-develope)
+  - [:snowflake: Client App](#snowflake-client-app)
+    - [:snowflake: Environment Setup](#snowflake-environment-setup)
 
 
 ---
@@ -281,3 +284,12 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 
 **[⬆ back to top](#table-of-contents)**
+
+
+# :snowflake: Develope
+
+## :snowflake: Client App
+
+### :snowflake: Environment Setup
+> To get started with C2, the only requirement is a [Node.js](https://ionicframework.com/docs/reference/glossary#node) & npm environment. You may choose any code editor
+> It is recommend selecting the LTS version of [Node.js](https://ionicframework.com/docs/reference/glossary#node) to ensure best compatibility.
