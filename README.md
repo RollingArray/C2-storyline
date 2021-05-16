@@ -37,6 +37,10 @@
     - [:snowflake: Activity Review](#snowflake-activity-review)
     - [:snowflake: Credibility Board](#snowflake-credibility-board)
 - [:snowflake: Develope](#snowflake-develope)
+- [🤝 Contributing](#-contributing)
+- [Author](#author)
+- [Show your support](#show-your-support)
+- [📝 License](#-license)
 
 
 ---
@@ -422,3 +426,30 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > ### :arrow_forward: You should see the app opened up in your browser
 > >
 > > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/app.png?raw=true"/>
+
+
+**[⬆ back to top](#table-of-contents)**
+
+# 🤝 Contributing
+
+Contributions, issues and feature requests are welcome.<br />
+Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues) if you want to contribute.<br />
+[Check the contributing guide](./CONTRIBUTING.md).<br />
+
+# Author
+
+👤 **Ranjoy Sen**
+
+- https://rollingarray.co.in
+- LinkedIn: [@FranckAbgrall](Https://www.Linkedin.Com/in/ranjoysen)
+- Twitter: [@kefranabg](Https://twitter.Com/ranjoy85)
+- Github: [@kefranabg](https://github.com/RollingArray)
+
+# Show your support
+
+Please ⭐️ this repository if this project helped you!
+
+
+# 📝 License
+C2 | © [rollingarray.co.in](http://rollingarray.co.in/).<br />
+This project is [Apache](https://github.com/RollingArray/C2-client-app/blob/main/LICENSE) licensed.
