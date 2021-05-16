@@ -177,7 +177,6 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 > * In your desktop or mobile navigate to [***https://c2.rollingarray.co.in***](https://c2.rollingarray.co.in/)
 > * User a valid email to create a free account
-> 
 > * Activate the account
 > * Once activated, use the email to login
 
@@ -186,88 +185,83 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 ### :snowflake: My Projects
 
-<img align="right" width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/my-projects.png?raw=true"/>
-
 > * Once sign in, you will land to My Projects
-> 
 > * Create a new project or you have been invited by  any other to team to join
 > * From more options, tap on View Project Details to get in to the project
 > * From more options, tap on Edit Project Details to edit the project details
 
+<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/my-projects.png?raw=true"/>
+
 ### :snowflake: Members
 
-<img align="right" width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-members.png?raw=true"/>
-
 > * From left menu, you can navigate to Project Members
-> 
 > * As an project administrator, you can add New Members and Reviewers to the project
 > * Tap on + icon to get in to member search, 
 > * Search for a user
 > * Add user as Assignee or Reviewer to the Project
+> <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-members.png?raw=true"/>
+
 
 ### :snowflake: Sprints
 
-<img align="right" width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-sprints.png?raw=true"/>
-
 > * From left menu, you can navigate to Project Sprints
-> 
 > * Sprints are typically timelines defines for a specific period in a year
 > * Sprints are probably the most important aspect of 
 > * C2 ecosystem, every activity is strongly tide up with time line and the performance has been measured based on time
 
+<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-sprints.png?raw=true"/>
+
 ### :snowflake: Goals
 
-<img align="right" width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-goals.png?raw=true"/>
-
 > * From left menu, you can navigate to Project Goal
-> 
 > * No Activity can be created on C2 ecosystem without having a Goal.
 > * All the criteria to measure the Activity is strongly mapped to the Goal
 > * Tap on + icon to create a new Goal
 > * Tap on more option on each Goal to edit the Goal details
 
+<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-goals.png?raw=true"/>
+
+
 ### :snowflake: Project Activities
 
-<img align="right" width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-activities.png?raw=true"/>
-
 > * From left menu, you can navigate to Project Activities
-> 
 > * Choose Sprint, Assignee & Goal to see all the activities
 > * Tap on + icon to create a new Activity by providing measurement criteria.
 > * Measurement criteria is an important aspect of C2 . Hence the system enforces a lot of fair policies to consider while review
 
+<img width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-activities.png?raw=true"/>
+
 ### :snowflake: Activity Assignee Self Review
 
-<img align="right" width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/activity-assignee-self-review.png?raw=true"/>
-
 > * From left menu, you can navigate to My Activity
-> 
 > * You can see all the activities assigns to you
 > * Tap on the Activity to get in to Activity Review page
 > * Scroll down to Assignee self review section and goes to details by taping on more icon
 > * Add self review comments  and provide measurable data based on your
 > * Based on Activity measurement scale, platform will show what is the achieved result in comparison to the measurement scale
 
+<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/activity-assignee-self-review.png?raw=true"/>
+
 
 ### :snowflake: Activity Review
 
-<img align="right" width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/activity-review.png?raw=true"/>
-
 > * From left menu, you can navigate to My Reviews
-> 
 > * You can see all the Activities assigns to you for review
 > * Tap on the activity to get in to Activity Review page
 > * Scrolls down to Review Details section and update review comment by taping on more icon
 > * Provides the verified results and comments
 
+<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/activity-review.png?raw=true"/>
+
+
 ### :snowflake: Credibility Board
 
-<img align="right" width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/credibility-board.png?raw=true"/>
-
 > * From left menu, you can navigate to Credibility Board
-> 
 > * C2 analysis each feedback and tunnel them through custom algorithm to generate a Credibility Index for each resource by nullifying any bias opinion in terms of of race, age, gender, disability and culture
 > * You can look at the Credibility Board to see how the review comments effected your teams Credibility Index
 > * This score can be fair indicator to the best performing resource and a strong contender for next opportunity
+
+<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/credibility-board.png?raw=true"/>
+
 
 **[⬆ back to top](#table-of-contents)**
