@@ -287,6 +287,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 # :snowflake: Develope
 
 > ## :snowflake: Client App
+> Follow below guidelines to setup C2 app on your Windows/Mac/Linux machine
 
 > > ### :snowflake: Environment Setup
 > > To get started with C2, the only requirement is a [Node.js](https://ionicframework.com/docs/reference/glossary#node) & npm environment. You may choose any code editor
