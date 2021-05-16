@@ -422,5 +422,8 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 > > ### :arrow_forward: Build and Run App
 > > ```
-> > ionic build --o
+> > ionic serve --o
 > > ```
+> > You should see the app opened up in your browser
+> >
+> > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/app.png?raw=true"/>
