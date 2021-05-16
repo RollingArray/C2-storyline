@@ -291,3 +291,11 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > ### :snowflake: Environment Setup
 > > To get started with C2, the only requirement is a [Node.js](https://ionicframework.com/docs/reference/glossary#node) & npm environment. You may choose any code editor
 > > It is recommend selecting the LTS version of [Node.js](https://ionicframework.com/docs/reference/glossary#node) to ensure best compatibility.
+
+> > ### :snowflake: Install the Ionic CLI
+> > C2 client app is design using [ionic](https://ionicframework.com). Go to [Ionic CLI](https://ionicframework.com/docs/intro/cli) and install for your OS
+
+> > ### :snowflake: Clone Repo
+> > ```
+> > ada adasd 
+> > ```
