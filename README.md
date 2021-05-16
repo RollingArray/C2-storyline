@@ -287,12 +287,12 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 # :snowflake: Develope
 
 > ## :snowflake: Database Setup
-> > ### :snowflake: Clone Database schema Repo
+> > ### :arrow_forward: Clone Database schema Repo
 > > ```
 > > git clone https://github.com/RollingArray/C2-database
 > > ```
 > 
-> > ### :snowflake: Create a MySQL database and a MySQL user
+> > ### :arrow_forward: Create a MySQL database and a MySQL user
 > > ```
 > > mysql -u root -p
 > > mysql> CREATE DATABASE IF NOT EXISTS `c2_dev` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
@@ -301,25 +301,25 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > mysql> quit
 > > ```
 > 
-> > ### :snowflake: Generate database `Schema`
+> > ### :arrow_forward: Generate database `Schema`
 > > ```
 > > cd /C2-database
 > > mysql -u username -p c2_dev < c2_dev_schema.sql
 > > ```
 > 
-> > ### :snowflake: Add database `Triggers`
+> > ### :arrow_forward: Add database `Triggers`
 > > ```
 > > cd /C2-database
 > > mysql -u username -p c2_dev < c2_dev_trigger.sql
 > > ```
 >
-> > ### :snowflake: Add database `Stored Procedures`
+> > ### :arrow_forward: Add database `Stored Procedures`
 > > ```
 > > cd /C2-database
 > > mysql -u username -p c2_dev < c2_dev_stored_procedure.sql
 > > ```
 >
-> > ### :snowflake: Generate schema
+> > ### :arrow_forward: Generate schema
 > > ```
 > > mysql -u root -p
 > > mysql> CREATE DATABASE c2_staging;
@@ -327,35 +327,92 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > mysql> GRANT ALL PRIVILEGES ON c2_staging.* TO 'username'@'localhost';
 > > mysql> quit
 > > ```
+>
+> ## :snowflake: Server Setup
+> > ### :arrow_forward: Clone C2 Server Repo and place inside htdocs or www folder for you apache / nginx server 
+> > ```
+> > git clone https://github.com/RollingArray/C2-server-api
+> > ```
+>
+> > ### :arrow_forward: Server configuration 
+> > ```
+> > cd /htdocs/C2-server-api/v1 
+> > cp environment.example.php environment.php    
+> > ```
+> 
+> > Open environment.php to any code editor and update hashKey, JWT, db and email parameters
+> > ```php
+> > $environment = [
+> > 	'hashKey' => [
+> > 		'SALT' => '', //key size 16,
+> > 	],
+> > 
+> > 	'JWT' => [
+> > 		'CLIENT_ID' => '', // client id
+> > 		'SERVER_ID' => '', // server id www.xyz.com
+> > 		'EXPIRE_IN_SECONDS' => '', // exiporation in seconds, 60480
+> > 	],
+> > 	
+> > 	'db' => [
+> > 		'host' => '', // host
+> > 		'username' => '', // database username
+> > 		'password' => '', // database password
+> > 		'database' => '', // database name
+> > 		'port' => '' // database post
+> > 	],
+> > 
+> > 	'email' => [
+> > 		'smtp_host_ip' => '', // smtp host ip
+> > 		'port' => 587, // smtp port
+> > 		'smtp_username' => '', // smtp_username
+> > 		'smtp_password' => '', // smtp_password
+> > 		'support_email' => '', // support_email
+> > 		'pretty_email_name' => '' // pretty_email_name
+> > 	],
+> > ];   
+> > ```
+> > ### :arrow_forward: Test server setup
+> > ```
+> 
+> > Navigate to http://localhost:<port>/C2-server-api/v1/user/test
+> > ```
+> If all goes fine, you should see the response as below
+> 
+> > ```json
+> > {
+> >     "success":true,"message":"Server reachable"
+> > }
+> > ```
+> > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/success.png?raw=true"/>
 > 
 > ## :snowflake: Client App
 > Follow below guidelines to setup C2 app on your Windows/Mac/Linux machine
 > 
 
-> > ### :snowflake: Environment Setup
+> > ### :arrow_forward: Environment Setup
 > > To get started with C2, the only requirement is a [Node.js](https://ionicframework.com/docs/reference/glossary#node) & npm environment. You may choose any code editor
 > > It is recommend selecting the LTS version of [Node.js](https://ionicframework.com/docs/reference/glossary#node) to ensure best compatibility.
 > 
 
-> > ### :snowflake: Install the Ionic CLI
+> > ### :arrow_forward: Install the Ionic CLI
 > > C2 client app is design using [ionic](https://ionicframework.com). Go to [Ionic CLI](https://ionicframework.com/docs/intro/cli) and install for your OS
 > 
 
-> > ### :snowflake: Clone Repo
+> > ### :arrow_forward: Clone Repo
 > > ```
 > > git clone https://github.com/RollingArray/C2-client-app
 > > cd C2-client-app/
 > > ```
 > 
 
-> > ### :snowflake: Install Dependency
+> > ### :arrow_forward: Install Dependency
 > > ```
 > > cd C2-client-app/
 > > npm install
 > > ```
 > 
 
-> > ### :snowflake: Setup local api
+> > ### :arrow_forward: Setup local api
 > > Go to `C2-client-app/src/environments/environment.ts` and update api endpoint to your local api endpoint
 > > ```ts
 > > export const environment = {
@@ -364,7 +421,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > };
 > > ```
 
-> > ### :snowflake: Build and Run App
+> > ### :arrow_forward: Build and Run App
 > > ```
 > > ionic build --o
 > > ```
