@@ -8,22 +8,38 @@
 ---
 
 ## Table of Contents
-- **[Solution](#snowflake-solution)**
-  - **[C2 - Bring Equality In Diverse Workforce](#snowflake-c2---bring-equality-in-diverse-workforce)**
-  - **[How It Works](#dizzy-how-it-works)**
-    - **[Authenticate yourself](#snowflake-authenticate-yourself)**
-    - **[My Projects](#snowflake-my-projects)**
-    - **[Members](#snowflake-members)**
-    - **[Sprints](#snowflake-sprints)**
-    - **[Goals](#snowflake-goals)**
-    - **[Project Activities](#snowflake-project-activities)**
-    - **[Activity Assignee Self Review](#snowflake-activity-assignee-self-review)**
-    - **[Activity Review](#snowflake-activity-review)**
-    - **[Credibility Board](#snowflake-credibility-board)**
+- [✨ Typical Inequality Problem in Workplace](#-typical-inequality-problem-in-workplace)
+- [:mushroom: Various types of Bias](#mushroom-various-types-of-bias)
+- [:briefcase: Case Study](#briefcase-case-study)
+- [:briefcase: Solution Approach](#briefcase-solution-approach)
+  - [:briefcase: Design Foundation](#briefcase-design-foundation)
+    - [:snowflake: Projects](#snowflake-projects)
+    - [:snowflake: Goal](#snowflake-goal)
+    - [:snowflake: Activity](#snowflake-activity)
+    - [:snowflake: Measurement Criteria](#snowflake-measurement-criteria)
+    - [:snowflake: Measurement Criteria Characteristics](#snowflake-measurement-criteria-characteristics)
+    - [:snowflake: Reviewer](#snowflake-reviewer)
+    - [:snowflake: Feedback classification & Calculating Performance %](#snowflake-feedback-classification--calculating-performance-)
+    - [:snowflake: Calculating Weighted Performances %](#snowflake-calculating-weighted-performances-)
+    - [:snowflake: Calculating Activity Performance](#snowflake-calculating-activity-performance)
+    - [:snowflake: Calculating Credibility](#snowflake-calculating-credibility)
+    - [:snowflake: Define Equal Opportunities](#snowflake-define-equal-opportunities)
+- [:snowflake: Solution](#snowflake-solution)
+  - [:snowflake: C2 - Bring Equality In Diverse Workforce](#snowflake-c2---bring-equality-in-diverse-workforce)
+  - [:dizzy: How It Works](#dizzy-how-it-works)
+    - [:snowflake: Authenticate yourself](#snowflake-authenticate-yourself)
+    - [:snowflake: My Projects](#snowflake-my-projects)
+    - [:snowflake: Members](#snowflake-members)
+    - [:snowflake: Sprints](#snowflake-sprints)
+    - [:snowflake: Goals](#snowflake-goals)
+    - [:snowflake: Project Activities](#snowflake-project-activities)
+    - [:snowflake: Activity Assignee Self Review](#snowflake-activity-assignee-self-review)
+    - [:snowflake: Activity Review](#snowflake-activity-review)
+    - [:snowflake: Credibility Board](#snowflake-credibility-board)
 
 
 ---
-## ✨ Typical Inequality Problem in Workplace
+# ✨ Typical Inequality Problem in Workplace
 
 In a typical workplace, work done by a resource is normally evaluated based on ***feedback*** from ***supervisors*** or ***customers*** respectively. Feedback providers give feedback depending on their assessment of the deliverable against each criteria and it is very ***subjective***
 
@@ -37,7 +53,7 @@ If the feedbacks are analysed, there could be ***various bias*** found in the fe
 
 ---
 
-## :mushroom: Various types of Bias
+# :mushroom: Various types of Bias
 
 Study shows, there are various types of bias encountered while judging resources while providing feedback for a certain deliverable . A bias in judgement may happen as consciously or unconsciously
 
@@ -47,7 +63,7 @@ Study shows, there are various types of bias encountered while judging resources
 
 ---
 
-## :briefcase: Case Study
+# :briefcase: Case Study
 
 <img width="400" align="left" src="https://github.com/RollingArray/C2-storyline/blob/main/images/case-study.png?raw=true"/>
 
@@ -59,7 +75,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 ---
 
-## :briefcase: Solution Approach
+# :briefcase: Solution Approach
 <img width="300" align="right" src="https://github.com/RollingArray/C2-storyline/blob/main/images/approach.png?raw=true"/>
 
 > * :one: Design the data structure which can pull feedback related data from the day to day task deliverables in an project
