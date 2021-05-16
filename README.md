@@ -175,13 +175,14 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 ### :snowflake: Authenticate yourself
 
-<img align="right" width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/authenticate-yourself.png?raw=true"/>
-
 > * In your desktop or mobile navigate to [***https://c2.rollingarray.co.in***](https://c2.rollingarray.co.in/)
 > * User a valid email to create a free account
 > 
 > * Activate the account
 > * Once activated, use the email to login
+
+<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/authenticate-yourself.png?raw=true"/>
+
 
 ### :snowflake: My Projects
 
