@@ -37,6 +37,7 @@
     - [:small_blue_diamond: Activity Review](#small_blue_diamond-activity-review)
     - [:small_blue_diamond: Credibility Board](#small_blue_diamond-credibility-board)
 - [:large_blue_circle: Contributing](#large_blue_circle-contributing)
+- [:large_blue_circle: System Requirement](#large_blue_circle-system-requirement)
 - [:large_blue_circle: Setting Up the project locally](#large_blue_circle-setting-up-the-project-locally)
 - [:large_blue_circle: Reporting Bugs](#large_blue_circle-reporting-bugs)
 - [:large_blue_circle: Author](#large_blue_circle-author)
@@ -294,6 +295,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a [Check the contributing guide](https://github.com/RollingArray/C2-storyline/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
+# :large_blue_circle: System Requirement
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
