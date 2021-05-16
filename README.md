@@ -314,7 +314,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## :small_orange_diamond: Setting Up the project locally
 
-> ### :small_orange_diamond: Database Setup
+> ### :small_red_triangle: Database Setup
 > > #### :arrow_forward: Clone Database schema Repo
 > > ```
 > > git clone https://github.com/RollingArray/C2-database
@@ -351,7 +351,7 @@ When contributing to this repository, please first discuss the change you wish t
 > >
 > > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/erd.png?raw=true"/>
 >
-> ### :small_orange_diamond: Server Setup
+> ### :small_red_triangle: Server Setup
 > > #### :arrow_forward: Clone C2 Server Repo and place inside htdocs or www folder for you apache / nginx server 
 > > ```
 > > git clone https://github.com/RollingArray/C2-server-api
@@ -407,7 +407,7 @@ When contributing to this repository, please first discuss the change you wish t
 > > ```
 > > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/success.png?raw=true"/>
 > 
-> ### :small_orange_diamond: Client App
+> ### :small_red_triangle: Client App
 > Follow below guidelines to setup C2 app on your Windows/Mac/Linux machine
 > 
 
