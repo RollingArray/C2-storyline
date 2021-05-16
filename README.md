@@ -288,25 +288,30 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 > ## :snowflake: Client App
 > Follow below guidelines to setup C2 app on your Windows/Mac/Linux machine
+> 
 
 > > ### :snowflake: Environment Setup
 > > To get started with C2, the only requirement is a [Node.js](https://ionicframework.com/docs/reference/glossary#node) & npm environment. You may choose any code editor
 > > It is recommend selecting the LTS version of [Node.js](https://ionicframework.com/docs/reference/glossary#node) to ensure best compatibility.
+> 
 
 > > ### :snowflake: Install the Ionic CLI
 > > C2 client app is design using [ionic](https://ionicframework.com). Go to [Ionic CLI](https://ionicframework.com/docs/intro/cli) and install for your OS
+> 
 
 > > ### :snowflake: Clone Repo
 > > ```
 > > git clone https://github.com/RollingArray/C2-client-app
 > > cd C2-client-app/
 > > ```
+> 
 
 > > ### :snowflake: Install Dependency
 > > ```
 > > cd C2-client-app/
 > > npm install
 > > ```
+> 
 
 > > ### :snowflake: Setup local api
 > > Go to C2-client-app/src/environments/environment.ts and update api endpoint to your local api endpoint
