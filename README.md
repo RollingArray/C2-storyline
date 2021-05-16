@@ -188,12 +188,9 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 > * Once sign in, you will land to My Projects
 > 
-> * Create a new project or you have been invited by 
-> any other to team to join
-> * From more options, tap on View Project 
-Details to get in to the project
->  * From more options, tap on Edit Project 
-Details to edit the project details
+> * Create a new project or you have been invited by  any other to team to join
+> * From more options, tap on View Project Details to get in to the project
+> * From more options, tap on Edit Project Details to edit the project details
 
 ### :snowflake: Members
 
