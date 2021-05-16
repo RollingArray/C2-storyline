@@ -8,43 +8,43 @@
 ---
 
 ## Table of Contents
-- [✨ Typical Inequality Problem in Workplace](#-typical-inequality-problem-in-workplace)
-- [:mushroom: Various types of Bias](#mushroom-various-types-of-bias)
-- [:briefcase: Case Study](#briefcase-case-study)
-- [:briefcase: Solution Approach](#briefcase-solution-approach)
-  - [:briefcase: Design Foundation](#briefcase-design-foundation)
-    - [:snowflake: Projects](#snowflake-projects)
-    - [:snowflake: Goal](#snowflake-goal)
-    - [:snowflake: Activity](#snowflake-activity)
-    - [:snowflake: Measurement Criteria](#snowflake-measurement-criteria)
-    - [:snowflake: Measurement Criteria Characteristics](#snowflake-measurement-criteria-characteristics)
-    - [:snowflake: Reviewer](#snowflake-reviewer)
-    - [:snowflake: Feedback classification & Calculating Performance %](#snowflake-feedback-classification--calculating-performance-)
-    - [:snowflake: Calculating Weighted Performances %](#snowflake-calculating-weighted-performances-)
-    - [:snowflake: Calculating Activity Performance](#snowflake-calculating-activity-performance)
-    - [:snowflake: Calculating Credibility](#snowflake-calculating-credibility)
-    - [:snowflake: Define Equal Opportunities](#snowflake-define-equal-opportunities)
-- [:snowflake: Solution](#snowflake-solution)
+- [large_blue_circle Typical Inequality Problem in Workplace](#large_blue_circle-typical-inequality-problem-in-workplace)
+- [:large_blue_circle: Various types of Bias](#large_blue_circle-various-types-of-bias)
+- [:large_blue_circle: Case Study](#large_blue_circle-case-study)
+- [:large_blue_circle: Solution Approach](#large_blue_circle-solution-approach)
+  - [:small_orange_diamond: Design Foundation](#small_orange_diamond-design-foundation)
+    - [:small_blue_diamond: Projects](#small_blue_diamond-projects)
+    - [:small_blue_diamond: Goal](#small_blue_diamond-goal)
+    - [:small_blue_diamond: Activity](#small_blue_diamond-activity)
+    - [:small_blue_diamond: Measurement Criteria](#small_blue_diamond-measurement-criteria)
+    - [:small_blue_diamond: Measurement Criteria Characteristics](#small_blue_diamond-measurement-criteria-characteristics)
+    - [:small_blue_diamond: Reviewer](#small_blue_diamond-reviewer)
+    - [:small_blue_diamond: Feedback classification & Calculating Performance %](#small_blue_diamond-feedback-classification--calculating-performance-)
+    - [:small_blue_diamond: Calculating Weighted Performances %](#small_blue_diamond-calculating-weighted-performances-)
+    - [:small_blue_diamond: Calculating Activity Performance](#small_blue_diamond-calculating-activity-performance)
+    - [:small_blue_diamond: Calculating Credibility](#small_blue_diamond-calculating-credibility)
+    - [:small_blue_diamond: Define Equal Opportunities](#small_blue_diamond-define-equal-opportunities)
+- [:large_blue_circle: Solution](#large_blue_circle-solution)
   - [:snowflake: C2 - Bring Equality In Diverse Workforce](#snowflake-c2---bring-equality-in-diverse-workforce)
-  - [:dizzy: How It Works](#dizzy-how-it-works)
-    - [:snowflake: Authenticate yourself](#snowflake-authenticate-yourself)
-    - [:snowflake: My Projects](#snowflake-my-projects)
-    - [:snowflake: Members](#snowflake-members)
-    - [:snowflake: Sprints](#snowflake-sprints)
-    - [:snowflake: Goals](#snowflake-goals)
-    - [:snowflake: Project Activities](#snowflake-project-activities)
-    - [:snowflake: Activity Assignee Self Review](#snowflake-activity-assignee-self-review)
-    - [:snowflake: Activity Review](#snowflake-activity-review)
-    - [:snowflake: Credibility Board](#snowflake-credibility-board)
-- [:snowflake: Develope](#snowflake-develope)
-- [🤝 Contributing](#-contributing)
-- [Author](#author)
-- [Show your support](#show-your-support)
-- [📝 License](#-license)
+  - [:small_orange_diamond: How It Works](#small_orange_diamond-how-it-works)
+    - [:small_blue_diamond: Authenticate yourself](#small_blue_diamond-authenticate-yourself)
+    - [:small_blue_diamond: My Projects](#small_blue_diamond-my-projects)
+    - [:small_blue_diamond: Members](#small_blue_diamond-members)
+    - [:small_blue_diamond: Sprints](#small_blue_diamond-sprints)
+    - [:small_blue_diamond: Goals](#small_blue_diamond-goals)
+    - [:small_blue_diamond: Project Activities](#small_blue_diamond-project-activities)
+    - [:small_blue_diamond: Activity Assignee Self Review](#small_blue_diamond-activity-assignee-self-review)
+    - [:small_blue_diamond: Activity Review](#small_blue_diamond-activity-review)
+    - [:small_blue_diamond: Credibility Board](#small_blue_diamond-credibility-board)
+- [:large_blue_circle: Develope](#large_blue_circle-develope)
+- [:handshaking: Contributing](#handshaking-contributing)
+- [:smile: Author](#smile-author)
+- [:star: Show your support](#star-show-your-support)
+- [:page_with_curl: License](#page_with_curl-license)
 
 
 ---
-# ✨ Typical Inequality Problem in Workplace
+# large_blue_circle Typical Inequality Problem in Workplace
 
 In a typical workplace, work done by a resource is normally evaluated based on ***feedback*** from ***supervisors*** or ***customers*** respectively. Feedback providers give feedback depending on their assessment of the deliverable against each criteria and it is very ***subjective***
 
@@ -58,7 +58,7 @@ If the feedbacks are analysed, there could be ***various bias*** found in the fe
 
 ---
 
-# :mushroom: Various types of Bias
+# :large_blue_circle: Various types of Bias
 
 Study shows, there are various types of bias encountered while judging resources while providing feedback for a certain deliverable . A bias in judgement may happen as consciously or unconsciously
 
@@ -68,7 +68,7 @@ Study shows, there are various types of bias encountered while judging resources
 
 ---
 
-# :briefcase: Case Study
+# :large_blue_circle: Case Study
 
 <img width="400" align="left" src="https://github.com/RollingArray/C2-storyline/blob/main/images/case-study.png?raw=true"/>
 
@@ -80,7 +80,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 ---
 
-# :briefcase: Solution Approach
+# :large_blue_circle: Solution Approach
 <img width="300" align="right" src="https://github.com/RollingArray/C2-storyline/blob/main/images/approach.png?raw=true"/>
 
 > * :one: Design the data structure which can pull feedback related data from the day to day task deliverables in an project
@@ -92,8 +92,8 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 ---
 
-## :briefcase: Design Foundation
-### :snowflake: Projects
+## :small_orange_diamond: Design Foundation
+### :small_blue_diamond: Projects
 
 > Each project consist of number of ***Goals***, ***Sprints***, ***Assignees*** & ***Reviewers***
 
@@ -101,7 +101,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-### :snowflake: Goal
+### :small_blue_diamond: Goal
 
 > Each ***Goal*** is associated to certain ***Activities***
 
@@ -109,7 +109,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-### :snowflake: Activity
+### :small_blue_diamond: Activity
 
 > Each ***Activity*** has associated certain properties and more specificity has number of ***reviewers*** to judge how well the assignee has achieved the ***results***
 
@@ -117,7 +117,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-### :snowflake: Measurement Criteria
+### :small_blue_diamond: Measurement Criteria
 
 > Each ***Activity Measurement Criteria*** has ***Characteristics*** & ***Performance Statistics***
 
@@ -125,7 +125,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-### :snowflake: Measurement Criteria Characteristics
+### :small_blue_diamond: Measurement Criteria Characteristics
 
 > ***Measurement Criteria*** can have 2 distinct Characteristics. ***Higher The Better Result*** or ***Lower The Better Result***
 
@@ -133,7 +133,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-### :snowflake: Reviewer
+### :small_blue_diamond: Reviewer
 
 > ***Reviewers*** judge any deliverables for a certain ***duration*** over a defined set of ***Measurement Characteristics***  and provide verified results
 
@@ -141,7 +141,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-### :snowflake: Feedback classification & Calculating Performance %
+### :small_blue_diamond: Feedback classification & Calculating Performance %
 
 > Each ***Feedback*** gets classified based on pre-defined ***Activity Completion Indicator*** and ***Performance in %*** gets calculated
 
@@ -149,7 +149,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-### :snowflake: Calculating Weighted Performances %
+### :small_blue_diamond: Calculating Weighted Performances %
 
 > For a certain ***Assignee*** in a given duration, the activities are having different ***weights***, and total weight for that duration should not cross ***100%***
 
@@ -157,7 +157,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-### :snowflake: Calculating Activity Performance
+### :small_blue_diamond: Calculating Activity Performance
 
 > Based on number of ***Weighted Performances***, an ***Activity Performance*** gets calculated by taking ***Mathematical Mean*** of all performances
 
@@ -165,7 +165,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-### :snowflake: Calculating Credibility
+### :small_blue_diamond: Calculating Credibility
 
 > Upon calculating activity performance for all the tasks assigned to an assignee, ***Credibility*** of the assignee can be derived in % or out of 5 by taking the ***Summation*** of Activity Performances divided by ***Activity Weight***.
 
@@ -173,7 +173,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-### :snowflake: Define Equal Opportunities
+### :small_blue_diamond: Define Equal Opportunities
 
 > Upon finding resources for a given ***New opportunity***, ***[`C2`](http://c2.rollingarray.co.in/)*** lists resources with ***Credibility Score***, hence the opportunity may gets assigned to the ***Top Scorer***. This nullifies any ***Bias*** in decision making and brings equality in diverse work force
 
@@ -181,7 +181,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-# :snowflake: Solution
+# :large_blue_circle: Solution
 ## :snowflake: C2 - Bring Equality In Diverse Workforce
 
 ***[`C2`](http://c2.rollingarray.co.in/)*** is a platform designed to nullify any ***bias*** in terms of ***race***, ***age***, ***gender***, ***disability*** and ***culture*** when treating a workforce and provide ***measurable matrix*** for a best fit person to grab a ***new opportunities***
@@ -192,9 +192,9 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-## :dizzy: How It Works 
+## :small_orange_diamond: How It Works 
 
-### :snowflake: Authenticate yourself
+### :small_blue_diamond: Authenticate yourself
 
 > * In your desktop or mobile navigate to [***https://c2.rollingarray.co.in***](https://c2.rollingarray.co.in/)
 > * User a valid email to create a free account
@@ -204,7 +204,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/authenticate-yourself.png?raw=true"/>
 
 
-### :snowflake: My Projects
+### :small_blue_diamond: My Projects
 
 > * Once sign in, you will land to My Projects
 > * Create a new project or you have been invited by  any other to team to join
@@ -213,7 +213,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/my-projects.png?raw=true"/>
 
-### :snowflake: Members
+### :small_blue_diamond: Members
 
 > * From left menu, you can navigate to Project Members
 > * As an project administrator, you can add New Members and Reviewers to the project
@@ -223,7 +223,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-members.png?raw=true"/>
 
 
-### :snowflake: Sprints
+### :small_blue_diamond: Sprints
 
 > * From left menu, you can navigate to Project Sprints
 > * Sprints are typically timelines defines for a specific period in a year
@@ -232,7 +232,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-sprints.png?raw=true"/>
 
-### :snowflake: Goals
+### :small_blue_diamond: Goals
 
 > * From left menu, you can navigate to Project Goal
 > * No Activity can be created on C2 ecosystem without having a Goal.
@@ -243,7 +243,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-goals.png?raw=true"/>
 
 
-### :snowflake: Project Activities
+### :small_blue_diamond: Project Activities
 
 > * From left menu, you can navigate to Project Activities
 > * Choose Sprint, Assignee & Goal to see all the activities
@@ -252,7 +252,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-activities.png?raw=true"/>
 
-### :snowflake: Activity Assignee Self Review
+### :small_blue_diamond: Activity Assignee Self Review
 
 > * From left menu, you can navigate to My Activity
 > * You can see all the activities assigns to you
@@ -264,7 +264,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/activity-assignee-self-review.png?raw=true"/>
 
 
-### :snowflake: Activity Review
+### :small_blue_diamond: Activity Review
 
 > * From left menu, you can navigate to My Reviews
 > * You can see all the Activities assigns to you for review
@@ -275,7 +275,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/activity-review.png?raw=true"/>
 
 
-### :snowflake: Credibility Board
+### :small_blue_diamond: Credibility Board
 
 > * From left menu, you can navigate to Credibility Board
 > * C2 analysis each feedback and tunnel them through custom algorithm to generate a Credibility Index for each resource by nullifying any bias opinion in terms of of race, age, gender, disability and culture
@@ -288,9 +288,9 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 **[⬆ back to top](#table-of-contents)**
 
 
-# :snowflake: Develope
+# :large_blue_circle: Develope
 
-> ## :snowflake: Database Setup
+> ## :small_orange_diamond: Database Setup
 > > ### :arrow_forward: Clone Database schema Repo
 > > ```
 > > git clone https://github.com/RollingArray/C2-database
@@ -327,7 +327,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > >
 > > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/erd.png?raw=true"/>
 >
-> ## :snowflake: Server Setup
+> ## :small_orange_diamond: Server Setup
 > > ### :arrow_forward: Clone C2 Server Repo and place inside htdocs or www folder for you apache / nginx server 
 > > ```
 > > git clone https://github.com/RollingArray/C2-server-api
@@ -383,7 +383,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > ```
 > > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/success.png?raw=true"/>
 > 
-> ## :snowflake: Client App
+> ## :small_orange_diamond: Client App
 > Follow below guidelines to setup C2 app on your Windows/Mac/Linux machine
 > 
 
@@ -430,26 +430,27 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-# 🤝 Contributing
+# :handshaking: Contributing
 
 Contributions, issues and feature requests are welcome.<br />
 Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues) if you want to contribute.<br />
 [Check the contributing guide](./CONTRIBUTING.md).<br />
 
-# Author
+# :smile: Author
 
-👤 **Ranjoy Sen**
+**Ranjoy Sen**
 
 - https://rollingarray.co.in
-- LinkedIn: [@FranckAbgrall](Https://www.Linkedin.Com/in/ranjoysen)
-- Twitter: [@kefranabg](Https://twitter.Com/ranjoy85)
-- Github: [@kefranabg](https://github.com/RollingArray)
+- LinkedIn: [@ranjoysen](Https://www.Linkedin.Com/in/ranjoysen)
+- Twitter: [@ranjoy85](Https://twitter.Com/ranjoy85)
+- Github: [@RollingArray](https://github.com/RollingArray)
 
-# Show your support
+# :star: Show your support
 
 Please ⭐️ this repository if this project helped you!
 
 
-# 📝 License
+# :page_with_curl: License
+support@rollingarray.co.in
 C2 | © [rollingarray.co.in](http://rollingarray.co.in/).<br />
 This project is [Apache](https://github.com/RollingArray/C2-client-app/blob/main/LICENSE) licensed.
