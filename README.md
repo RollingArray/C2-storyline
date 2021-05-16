@@ -38,10 +38,10 @@
     - [:small_blue_diamond: Credibility Board](#small_blue_diamond-credibility-board)
 - [:large_blue_circle: Contributing](#large_blue_circle-contributing)
 - [:large_blue_circle: Setting Up the project locally](#large_blue_circle-setting-up-the-project-locally)
-- [:wave: Reporting Bugs](#wave-reporting-bugs)
-- [:smile: Author](#smile-author)
-- [:star: Show your support](#star-show-your-support)
-- [:page_with_curl: License](#page_with_curl-license)
+- [:large_blue_circle: Reporting Bugs](#large_blue_circle-reporting-bugs)
+- [:large_blue_circle: Author](#large_blue_circle-author)
+- [:large_blue_circle: Show your support](#large_blue_circle-show-your-support)
+- [:large_blue_circle: License](#large_blue_circle-license)
 
 
 ---
@@ -437,12 +437,12 @@ When contributing to this repository, please first discuss the change you wish t
 
 **[⬆ back to top](#table-of-contents)**
 
-# :wave: Reporting Bugs
+# :large_blue_circle: Reporting Bugs
 
 Issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/RollingArray/C2-storyline/blob/main/.github/ISSUE_TEMPLATE/bug_report.md) if you want to contribute.<br />
+Feel free to check [issues page](https://github.com/RollingArray/C2-storyline/blob/BUG_REPORT.md) if you want to contribute.<br />
 
-# :smile: Author
+# :large_blue_circle: Author
 **Ranjoy Sen**
 
 - https://rollingarray.co.in
@@ -450,12 +450,12 @@ Feel free to check [issues page](https://github.com/RollingArray/C2-storyline/bl
 - Twitter: [@ranjoy85](Https://twitter.Com/ranjoy85)
 - Github: [@RollingArray](https://github.com/RollingArray)
 
-# :star: Show your support
+# :large_blue_circle: Show your support
 
 Please ⭐️ this repository if this project helped you!
 
 
-# :page_with_curl: License
+# :large_blue_circle: License
 support@rollingarray.co.in
 C2 | © [rollingarray.co.in](http://rollingarray.co.in/).<br />
 This project is [Apache](https://github.com/RollingArray/C2-client-app/blob/main/LICENSE) licensed.
