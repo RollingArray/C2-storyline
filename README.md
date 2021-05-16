@@ -196,13 +196,12 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 <img align="right" width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-members.png?raw=true"/>
 
-> * From left menu, you can navigate to 
-> Project Members
+> * From left menu, you can navigate to Project Members
 > 
 > * As an project administrator, you can add New Members and Reviewers to the project
->  * Tap on + icon to get in to member search, 
->  * Search for a user
->  * Add user as Assignee or Reviewer to the Project
+> * Tap on + icon to get in to member search, 
+> * Search for a user
+> * Add user as Assignee or Reviewer to the Project
 
 ### :snowflake: Sprints
 
@@ -212,7 +211,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > 
 > * Sprints are typically timelines defines for a specific period in a year
 > * Sprints are probably the most important aspect of 
-> C2 ecosystem, every activity is strongly tide up with time line and the performance has been measured based on time
+> * C2 ecosystem, every activity is strongly tide up with time line and the performance has been measured based on time
 
 ### :snowflake: Goals
 
