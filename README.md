@@ -43,7 +43,7 @@
 
 In a typical workplace, work done by a resource is normally evaluated based on ***feedback*** from ***supervisors*** or ***customers*** respectively. Feedback providers give feedback depending on their assessment of the deliverable against each criteria and it is very ***subjective***
 
-<img width="300" align="right" src="https://github.com/RollingArray/C2-storyline/blob/main/images/pain-point.png?raw=true" alt="demo"/>
+<img width="250" align="right" src="https://github.com/RollingArray/C2-storyline/blob/main/images/pain-point.png?raw=true" alt="demo"/>
 
 Feedback criteria and weightages can vary depending on the category of task / deliverable.
 
