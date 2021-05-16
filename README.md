@@ -246,7 +246,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > * Tap on + icon to create a new Activity by providing measurement criteria.
 > * Measurement criteria is an important aspect of C2 . Hence the system enforces a lot of fair policies to consider while review
 
-<img width=300 src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-activities.png?raw=true"/>
+<img src="https://github.com/RollingArray/C2-storyline/blob/main/images/project-activities.png?raw=true"/>
 
 ### :snowflake: Activity Assignee Self Review
 
@@ -375,12 +375,11 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > ```
 > 
 > > Navigate to http://localhost:<port>/C2-server-api/v1/user/test
-> > ```
-> If all goes fine, you should see the response as below
-> 
+> > If all goes fine, you should see the response as below
 > > ```json
 > > {
-> >     "success":true,"message":"Server reachable"
+> >     "success":true,
+> >     "message":"Server reachable"
 > > }
 > > ```
 > > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/success.png?raw=true"/>
@@ -417,7 +416,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > ```ts
 > > export const environment = {
 > > 	production: false,
-> > 	apiEndpoint: '<local/c2/server/path>/api'
+> > 	apiEndpoint: 'http://localhost:8888/C2-server-api/v1/'
 > > };
 > > ```
 
