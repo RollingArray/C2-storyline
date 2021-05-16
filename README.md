@@ -60,7 +60,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 ---
 
 ## :briefcase: Solution Approach
-<img width="400" align="right" src="https://github.com/RollingArray/C2-storyline/blob/main/images/approach.png?raw=true"/>
+<img width="300" align="right" src="https://github.com/RollingArray/C2-storyline/blob/main/images/approach.png?raw=true"/>
 
 > * :one: Design the data structure which can pull feedback related data from the day to day task deliverables in an project
 > 
