@@ -297,5 +297,26 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 > > ### :snowflake: Clone Repo
 > > ```
-> > ada adasd 
+> > git clone https://github.com/RollingArray/C2-client-app
+> > cd C2-client-app/
+> > ```
+
+> > ### :snowflake: Install Dependency
+> > ```
+> > cd C2-client-app/
+> > npm install
+> > ```
+
+> > ### :snowflake: Setup local api
+> > Go to C2-client-app/src/environments/environment.ts and update api endpoint to your local api endpoint
+> > ```
+> > export const environment = {
+> > 	production: false,
+> > 	apiEndpoint: 'http://localhost:8888/C2/api/'
+> > };
+> > ```
+
+> > ### :snowflake: Build and Run App
+> > ```
+> > ionic build --o
 > > ```
