@@ -318,7 +318,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > ```ts
 > > export const environment = {
 > > 	production: false,
-> > 	apiEndpoint: 'http://localhost:8888/C2/api/'
+> > 	apiEndpoint: '<local/c2/server/path>/api'
 > > };
 > > ```
 
