@@ -319,14 +319,9 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > mysql -u username -p c2_dev < c2_dev_stored_procedure.sql
 > > ```
 >
-> > ### :arrow_forward: Generate schema
-> > ```
-> > mysql -u root -p
-> > mysql> CREATE DATABASE c2_staging;
-> > mysql> CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
-> > mysql> GRANT ALL PRIVILEGES ON c2_staging.* TO 'username'@'localhost';
-> > mysql> quit
-> > ```
+> > ### :arrow_forward: You should see ERD as below
+> >
+> > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/erd.png?raw=true"/>
 >
 > ## :snowflake: Server Setup
 > > ### :arrow_forward: Clone C2 Server Repo and place inside htdocs or www folder for you apache / nginx server 
@@ -424,6 +419,6 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 > > ```
 > > ionic serve --o
 > > ```
-> > You should see the app opened up in your browser
+> > ### :arrow_forward: You should see the app opened up in your browser
 > >
 > > <img src="https://github.com/RollingArray/C2-storyline/blob/main/images/app.png?raw=true"/>
