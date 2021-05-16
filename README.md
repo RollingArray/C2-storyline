@@ -37,9 +37,9 @@
     - [:small_blue_diamond: Activity Review](#small_blue_diamond-activity-review)
     - [:small_blue_diamond: Credibility Board](#small_blue_diamond-credibility-board)
 - [:large_blue_circle: Contributing](#large_blue_circle-contributing)
-- [:large_blue_circle: Repository](#large_blue_circle-repository)
-- [:large_blue_circle: System Requirement](#large_blue_circle-system-requirement)
-- [:large_blue_circle: Setting Up the project locally](#large_blue_circle-setting-up-the-project-locally)
+  - [:large_blue_circle: Repository](#large_blue_circle-repository)
+  - [:large_blue_circle: System Requirement](#large_blue_circle-system-requirement)
+  - [:large_blue_circle: Setting Up the project locally](#large_blue_circle-setting-up-the-project-locally)
 - [:large_blue_circle: Reporting Bugs](#large_blue_circle-reporting-bugs)
 - [:large_blue_circle: Author](#large_blue_circle-author)
 - [:large_blue_circle: Show your support](#large_blue_circle-show-your-support)
@@ -296,14 +296,14 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a [Check the contributing guide](https://github.com/RollingArray/C2-storyline/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
-# :large_blue_circle: Repository
+## :large_blue_circle: Repository
 | Area | Repo |
 |---|---|
 | Client app | [https://github.com/RollingArray/C2-client-app](https://github.com/RollingArray/C2-client-app) |
 | Server Api | [https://github.com/RollingArray/C2-server-api](https://github.com/RollingArray/C2-server-api) |
 | Database | [https://github.com/RollingArray/C2-database](https://github.com/RollingArray/C2-database) |
 
-# :large_blue_circle: System Requirement
+## :large_blue_circle: System Requirement
 | Entity | Version |
 |---|---|
 | Browser | Chrome or any other |
@@ -312,15 +312,15 @@ When contributing to this repository, please first discuss the change you wish t
 | MySQL | 5.7 or above |
 | Web Server | Apache or Nginx |
 
-# :large_blue_circle: Setting Up the project locally
+## :large_blue_circle: Setting Up the project locally
 
-> ## :small_orange_diamond: Database Setup
-> > ### :arrow_forward: Clone Database schema Repo
+> ### :small_orange_diamond: Database Setup
+> > #### :arrow_forward: Clone Database schema Repo
 > > ```
 > > git clone https://github.com/RollingArray/C2-database
 > > ```
 > 
-> > ### :arrow_forward: Create a MySQL database and a MySQL user
+> > #### :arrow_forward: Create a MySQL database and a MySQL user
 > > ```
 > > mysql -u root -p
 > > mysql> CREATE DATABASE IF NOT EXISTS `c2_dev` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
