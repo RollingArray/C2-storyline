@@ -63,6 +63,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 <img width="400" align="right" src="https://github.com/RollingArray/C2-storyline/blob/main/images/approach.png?raw=true"/>
 
 > * :one: Design the data structure which can pull feedback related data from the day to day task deliverables in an project
+> 
 > * :two: Design an Algorithm which can evaluate these feedbacks and create a tangible output in terms of a credibility score of an individual
 > * :three: Use the credibility score as baseline to find a assignee for an up coming opportunity
 
