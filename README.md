@@ -8,7 +8,7 @@
 ---
 
 ## Table of Contents
-- [large_blue_circle Typical Inequality Problem in Workplace](#large_blue_circle-typical-inequality-problem-in-workplace)
+- [:large_blue_circle: Typical Inequality Problem in Workplace](#large_blue_circle-typical-inequality-problem-in-workplace)
 - [:large_blue_circle: Various types of Bias](#large_blue_circle-various-types-of-bias)
 - [:large_blue_circle: Case Study](#large_blue_circle-case-study)
 - [:large_blue_circle: Solution Approach](#large_blue_circle-solution-approach)
@@ -25,7 +25,7 @@
     - [:small_blue_diamond: Calculating Credibility](#small_blue_diamond-calculating-credibility)
     - [:small_blue_diamond: Define Equal Opportunities](#small_blue_diamond-define-equal-opportunities)
 - [:large_blue_circle: Solution](#large_blue_circle-solution)
-  - [:snowflake: C2 - Bring Equality In Diverse Workforce](#snowflake-c2---bring-equality-in-diverse-workforce)
+  - [:small_orange_diamond: C2 - Bring Equality In Diverse Workforce](#small_orange_diamond-c2---bring-equality-in-diverse-workforce)
   - [:small_orange_diamond: How It Works](#small_orange_diamond-how-it-works)
     - [:small_blue_diamond: Authenticate yourself](#small_blue_diamond-authenticate-yourself)
     - [:small_blue_diamond: My Projects](#small_blue_diamond-my-projects)
@@ -37,14 +37,14 @@
     - [:small_blue_diamond: Activity Review](#small_blue_diamond-activity-review)
     - [:small_blue_diamond: Credibility Board](#small_blue_diamond-credibility-board)
 - [:large_blue_circle: Develope](#large_blue_circle-develope)
-- [:handshaking: Contributing](#handshaking-contributing)
+- [:wave: Contributing](#wave-contributing)
 - [:smile: Author](#smile-author)
 - [:star: Show your support](#star-show-your-support)
 - [:page_with_curl: License](#page_with_curl-license)
 
 
 ---
-# large_blue_circle Typical Inequality Problem in Workplace
+# :large_blue_circle: Typical Inequality Problem in Workplace
 
 In a typical workplace, work done by a resource is normally evaluated based on ***feedback*** from ***supervisors*** or ***customers*** respectively. Feedback providers give feedback depending on their assessment of the deliverable against each criteria and it is very ***subjective***
 
@@ -182,7 +182,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 **[⬆ back to top](#table-of-contents)**
 
 # :large_blue_circle: Solution
-## :snowflake: C2 - Bring Equality In Diverse Workforce
+## :small_orange_diamond: C2 - Bring Equality In Diverse Workforce
 
 ***[`C2`](http://c2.rollingarray.co.in/)*** is a platform designed to nullify any ***bias*** in terms of ***race***, ***age***, ***gender***, ***disability*** and ***culture*** when treating a workforce and provide ***measurable matrix*** for a best fit person to grab a ***new opportunities***
 
@@ -430,7 +430,7 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-# :handshaking: Contributing
+# :wave: Contributing
 
 Contributions, issues and feature requests are welcome.<br />
 Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues) if you want to contribute.<br />
