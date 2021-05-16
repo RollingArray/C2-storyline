@@ -37,10 +37,10 @@
     - [:small_blue_diamond: Activity Review](#small_blue_diamond-activity-review)
     - [:small_blue_diamond: Credibility Board](#small_blue_diamond-credibility-board)
 - [:large_blue_circle: Contributing](#large_blue_circle-contributing)
-  - [:large_blue_circle: Repository](#large_blue_circle-repository)
-  - [:large_blue_circle: System Requirement](#large_blue_circle-system-requirement)
-  - [:large_blue_circle: Setting Up the project locally](#large_blue_circle-setting-up-the-project-locally)
-  - [:large_blue_circle: Reporting Bugs](#large_blue_circle-reporting-bugs)
+  - [:small_orange_diamond: Repository](#small_orange_diamond-repository)
+  - [:small_orange_diamond: System Requirement](#small_orange_diamond-system-requirement)
+  - [:small_orange_diamond: Setting Up the project locally](#small_orange_diamond-setting-up-the-project-locally)
+  - [:small_orange_diamond: Reporting Bugs](#small_orange_diamond-reporting-bugs)
 - [:large_blue_circle: Author](#large_blue_circle-author)
 - [:large_blue_circle: Show your support](#large_blue_circle-show-your-support)
 - [:large_blue_circle: License](#large_blue_circle-license)
@@ -296,14 +296,14 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a [Check the contributing guide](https://github.com/RollingArray/C2-storyline/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
-## :large_blue_circle: Repository
+## :small_orange_diamond: Repository
 | Area | Repo |
 |---|---|
 | Client app | [https://github.com/RollingArray/C2-client-app](https://github.com/RollingArray/C2-client-app) |
 | Server Api | [https://github.com/RollingArray/C2-server-api](https://github.com/RollingArray/C2-server-api) |
 | Database | [https://github.com/RollingArray/C2-database](https://github.com/RollingArray/C2-database) |
 
-## :large_blue_circle: System Requirement
+## :small_orange_diamond: System Requirement
 | Entity | Version |
 |---|---|
 | Browser | Chrome or any other |
@@ -312,7 +312,7 @@ When contributing to this repository, please first discuss the change you wish t
 | MySQL | 5.7 or above |
 | Web Server | Apache or Nginx |
 
-## :large_blue_circle: Setting Up the project locally
+## :small_orange_diamond: Setting Up the project locally
 
 > ### :small_orange_diamond: Database Setup
 > > #### :arrow_forward: Clone Database schema Repo
@@ -454,7 +454,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 **[⬆ back to top](#table-of-contents)**
 
-## :large_blue_circle: Reporting Bugs
+## :small_orange_diamond: Reporting Bugs
 
 Issues and feature requests are welcome.<br />
 Feel free to check [issues page](https://github.com/RollingArray/C2-storyline/blob/main/BUG_REPORT.md) if you want to contribute.<br />
