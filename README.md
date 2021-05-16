@@ -286,6 +286,48 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 # :snowflake: Develope
 
+> ## :snowflake: Database Setup
+> > ### :snowflake: Clone Database schema Repo
+> > ```
+> > git clone https://github.com/RollingArray/C2-database
+> > ```
+> 
+> > ### :snowflake: Create a MySQL database and a MySQL user
+> > ```
+> > mysql -u root -p
+> > mysql> CREATE DATABASE IF NOT EXISTS `c2_dev` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+> > mysql> CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+> > mysql> GRANT ALL PRIVILEGES ON c2_dev.* TO 'username'@'localhost';
+> > mysql> quit
+> > ```
+> 
+> > ### :snowflake: Generate database `Schema`
+> > ```
+> > cd /C2-database
+> > mysql -u username -p c2_dev < c2_dev_schema.sql
+> > ```
+> 
+> > ### :snowflake: Add database `Triggers`
+> > ```
+> > cd /C2-database
+> > mysql -u username -p c2_dev < c2_dev_trigger.sql
+> > ```
+>
+> > ### :snowflake: Add database `Stored Procedures`
+> > ```
+> > cd /C2-database
+> > mysql -u username -p c2_dev < c2_dev_stored_procedure.sql
+> > ```
+>
+> > ### :snowflake: Generate schema
+> > ```
+> > mysql -u root -p
+> > mysql> CREATE DATABASE c2_staging;
+> > mysql> CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+> > mysql> GRANT ALL PRIVILEGES ON c2_staging.* TO 'username'@'localhost';
+> > mysql> quit
+> > ```
+> 
 > ## :snowflake: Client App
 > Follow below guidelines to setup C2 app on your Windows/Mac/Linux machine
 > 
