@@ -473,6 +473,5 @@ Please ⭐️ this repository if this project helped you!
 
 
 # :large_blue_circle: License
-support@rollingarray.co.in
-C2 | © [rollingarray.co.in](http://rollingarray.co.in/).<br />
+support@rollingarray.co.in | C2 | © [rollingarray.co.in](http://rollingarray.co.in/).<br />
 This project is [Apache](https://github.com/RollingArray/C2-client-app/blob/main/LICENSE) licensed.
