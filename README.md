@@ -36,7 +36,7 @@
     - [:small_blue_diamond: Activity Assignee Self Review](#small_blue_diamond-activity-assignee-self-review)
     - [:small_blue_diamond: Activity Review](#small_blue_diamond-activity-review)
     - [:small_blue_diamond: Credibility Board](#small_blue_diamond-credibility-board)
-- [:wave: Contributing](#wave-contributing)
+- [:large_blue_circle: Contributing](#large_blue_circle-contributing)
 - [:large_blue_circle: Setting Up the project locally](#large_blue_circle-setting-up-the-project-locally)
 - [:wave: Reporting Bugs](#wave-reporting-bugs)
 - [:smile: Author](#smile-author)
@@ -288,11 +288,11 @@ Over a period of `time`, `Joe` wants to do an `Equality analysis` of all his tea
 
 **[⬆ back to top](#table-of-contents)**
 
-# :wave: Contributing
+# :large_blue_circle: Contributing
 
 🙏👍🎉 First off, thanks for taking the time to contribute! 🎉👍👏
 
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a [Check the contributing guide]([./CONTRIBUTING.md](https://github.com/RollingArray/C2-storyline/blob/main/CODE_OF_CONDUCT.md)), please follow it in all your interactions with the project.
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a [Check the contributing guide](https://github.com/RollingArray/C2-storyline/blob/main/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 
 # :large_blue_circle: Setting Up the project locally
