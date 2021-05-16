@@ -440,7 +440,7 @@ When contributing to this repository, please first discuss the change you wish t
 # :large_blue_circle: Reporting Bugs
 
 Issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/RollingArray/C2-storyline/blob/BUG_REPORT.md) if you want to contribute.<br />
+Feel free to check [issues page](https://github.com/RollingArray/C2-storyline/blob/main/BUG_REPORT.md) if you want to contribute.<br />
 
 # :large_blue_circle: Author
 **Ranjoy Sen**
