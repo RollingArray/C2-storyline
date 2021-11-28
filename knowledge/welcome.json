@@ -1,0 +1,19 @@
+{
+    "id": "welcome",
+    "data": [
+        {
+            "type" : "level-1",
+            "content": "C2 - Bring Equality In Diverse Workforce"
+        },
+        {
+            "type" : "para",
+            "content": "C2 platform will be designed to nullify any bias in terms of race, age, gender, disability and culture when treating a workforce and provide measurable matrix for a best fit person to grab a a new opportunities"
+        },
+        {
+            "type" : "para",
+            "content": "C2 will have the power to generate meaningful credibility matric for each resource by analysing the feedbacks provided by the reviewers of the deliverables"
+        }
+    ],
+    "next": "welcome",
+    "previous": "welcome"
+}
