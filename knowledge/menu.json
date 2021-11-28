@@ -1,0 +1,15 @@
+[
+    {
+        "header": "Background",
+        "menu": [
+            {
+                "id": "welcome",
+                "title": "Welcome To C2"
+            },
+            {
+                "id": "welcome",
+                "title": "Welcome To C2"
+            }
+        ]
+    }
+]
